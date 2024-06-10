@@ -1,50 +1,61 @@
-# Welcome to your Expo app 👋
+# BAWP Mobile
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+BAWP Mobile is a comprehensive React Native application built with Expo, designed to seamlessly manage and monitor WordPress websites on the go.
+Features
 
-## Get started
+- Website Management: Add, update, and delete websites with ease.
+- Real-Time Monitoring: Fetch and display critical WordPress site information such as version, update availability, and plugin statuses.
+- API Integration: Leverage BAWP API for secure and efficient data retrieval.
+- User-Friendly Interface: Intuitive design with responsive UI components for a smooth user experience.
 
-1. Install dependencies
+## Support
 
-   ```bash
-   npm install
-   ```
+[<img src="https://user-images.githubusercontent.com/1286821/181085373-12eee197-187a-4438-90fe-571ac6d68900.png" alt="Buy me a coffee" width="200" />](https://www.buymeacoffee.com/coderb)
 
-2. Start the app
+# Prerequisites
 
-   ```bash
-    npx expo start
-   ```
+To use BAWP Mobile, you must have the [BAWP Plugin](https://github.com/enderkus/bawp) installed and activated on your WordPress site. 
 
-In the output, you'll find options to open the app in a
+# Tech Stack
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- React Native
+- Expo
+- TypeScript
+- Async Storage
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+# Screen Shots
 
-## Get a fresh project
+<img src="https://raw.githubusercontent.com/enderkus/bawp-mobile/main/screenshots/home-screen.png" width="250px">
+<img src="https://raw.githubusercontent.com/enderkus/bawp-mobile/main/screenshots/add-website.png" width="250px">
+<img src="https://raw.githubusercontent.com/enderkus/bawp-mobile/main/screenshots/detail-screen.png" width="250px">
 
-When you're ready, run:
 
-```bash
-npm run reset-project
+
+
+# Installation
+ 1. Clone the repository:
+
+ ```bash 
+ https://github.com/enderkus/bawp-mobile.git 
+ ```
+
+2. Install dependencies:
+
+ ```bash
+ cd bawp-mobile
+ npm install
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+3. Run the app:
 
-## Learn more
+```bash
+ npm start
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+# License
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+This project is licensed under the MIT License. You can refer to the LICENSE file for details.
 
-## Join the community
+# User Responsibility
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Users utilize the plugin at their own discretion. The plugin developer cannot be held responsible for any issues that may arise.
