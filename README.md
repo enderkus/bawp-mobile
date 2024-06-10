@@ -1,7 +1,8 @@
 # BAWP Mobile
 
-BAWP Mobile is a comprehensive React Native application built with Expo, designed to seamlessly manage and monitor WordPress websites on the go.
-Features
+BAWP Mobile is a comprehensive React Native application built with Expo, designed to seamlessly  monitor WordPress websites on the go.
+
+# Features
 
 - Website Management: Add, update, and delete websites with ease.
 - Real-Time Monitoring: Fetch and display critical WordPress site information such as version, update availability, and plugin statuses.
