@@ -59,4 +59,4 @@ This project is licensed under the MIT License. You can refer to the LICENSE fil
 
 # User Responsibility
 
-Users utilize the plugin at their own discretion. The plugin developer cannot be held responsible for any issues that may arise.
+Users utilize the app at their own discretion. The app developer cannot be held responsible for any issues that may arise.
